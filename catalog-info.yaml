@@ -10,5 +10,5 @@ spec:
   type: repository
   lifecycle: experimental
   owner: "group:default/admin"
-  consumeApis:
+  consumesApis:
     - petstore
